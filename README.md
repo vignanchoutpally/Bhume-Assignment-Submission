@@ -46,7 +46,8 @@ repo/
 │
 ├── transcripts/
 │   ├── README.md
-│   └── AI conversation logs
+│   ├── antigravity_transcript.md
+|   └── chatgpt_transcript.md
 │
 ├── requirements.txt
 ├── pyproject.toml
