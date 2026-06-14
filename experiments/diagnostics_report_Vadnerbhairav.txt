@@ -1,0 +1,74 @@
+=== PIPELINE EVALUATION DIAGNOSTICS ===
+Total plots: 2457
+CORRECTED plots: 573 (23.32%)
+FLAGGED plots: 1884 (76.68%)
+
+--- FLAGGING REASONS BREAKDOWN ---
+  Area ratio: 852 plots (45.22%)
+  Insufficient alignment: 0 plots (0.00%)
+  Alignment ambiguous: 9 plots (0.48%)
+  Low confidence: 323 plots (17.14%)
+  Overlap violation: 250 plots (13.27%)
+  Other: 450 plots (23.89%)
+
+--- CONFIDENCE SCORE DISTRIBUTION (CORRECTED) ---
+  [0.00 - 0.20): 0 plots (0.00%)
+  [0.20 - 0.40): 0 plots (0.00%)
+  [0.40 - 0.60): 99 plots (17.28%)
+  [0.60 - 0.80): 289 plots (50.44%)
+  [0.80 - 0.90): 185 plots (32.29%)
+  [0.90 - 0.95): 0 plots (0.00%)
+  [0.95 - 1.00): 0 plots (0.00%)
+
+  Mean Confidence: 0.7144
+  Median Confidence: 0.7239
+  Confidence > 0.95: 0 plots
+  Confidence > 0.90: 0 plots
+
+--- RANKED TABLE OF CORRECTED PLOTS (TOP 20) ---
+Rank  | Plot   | Confidence | Align  | Edge   | Shape  | Ambig  | Neigh  | Explanation
+------------------------------------------------------------------------------------------------------------------------
+1     | 1112   | 0.8699     | 0.4525 | 0.7147 | 0.9962 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+2     | 764    | 0.8684     | 0.5376 | 0.6046 | 0.9954 | 1.0000 | 0.9833 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+3     | 1544   | 0.8682     | 0.5548 | 0.6510 | 0.9858 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+4     | 2520   | 0.8654     | 0.5426 | 0.5425 | 0.9894 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+5     | 1165   | 0.8640     | 0.2665 | 0.7979 | 0.9868 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+6     | 16     | 0.8637     | 0.2004 | 0.8015 | 0.9927 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+7     | 1075   | 0.8622     | 0.3872 | 0.6910 | 0.9794 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+8     | 982    | 0.8610     | 0.5722 | 0.6117 | 0.9857 | 0.8353 | 0.9667 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+9     | 721    | 0.8607     | 0.7634 | 1.0000 | 0.9140 | 0.9049 | 0.9529 | strong imagery edge evidence, unambiguous alignment peak, consistent with neighbor shifts
+10    | 28     | 0.8593     | 0.4497 | 0.6878 | 0.9633 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+11    | 1108   | 0.8591     | 0.7219 | 0.7479 | 0.9259 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+12    | 1899   | 0.8587     | 0.0001 | 1.0000 | 0.9767 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+13    | 528    | 0.8573     | 0.2146 | 0.5364 | 1.0000 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+14    | 2051   | 0.8567     | 0.4675 | 0.6250 | 0.9620 | 1.0000 | 0.9833 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+15    | 1480   | 0.8560     | 0.7704 | 0.5796 | 0.9991 | 0.4204 | 0.9529 | excellent shape/area preservation, consistent with neighbor shifts
+16    | 763    | 0.8557     | 0.6688 | 0.6576 | 0.9738 | 0.6494 | 0.9667 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+17    | 1203   | 0.8544     | 0.3492 | 0.4960 | 0.9806 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+18    | 146    | 0.8540     | 0.4215 | 0.5156 | 0.9693 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+19    | 1562   | 0.8535     | 0.5914 | 0.5562 | 0.9443 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+20    | 1314   | 0.8531     | 0.3992 | 0.6523 | 0.9867 | 0.7378 | 0.9667 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+
+--- RANKED TABLE OF CORRECTED PLOTS (BOTTOM 20) ---
+Rank  | Plot   | Confidence | Align  | Edge   | Shape  | Ambig  | Neigh  | Explanation
+------------------------------------------------------------------------------------------------------------------------
+554   | 1330   | 0.5120     | 0.3539 | 0.6502 | 0.4058 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+555   | 1435   | 0.5103     | 0.2959 | 0.4094 | 0.5344 | 0.1933 | 0.9255 | weak boundary alignment, moderate area deviation
+556   | 1054   | 0.5089     | 0.5023 | 0.5899 | 0.3915 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+557   | 541    | 0.5076     | 0.1836 | 0.5773 | 0.4265 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+558   | 2547   | 0.5058     | 0.1144 | 0.3962 | 0.4516 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+559   | 2355   | 0.5033     | 0.0978 | 0.4265 | 0.4914 | 0.6299 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+560   | 888    | 0.5030     | 0.2379 | 0.3704 | 0.4368 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+561   | 2307   | 0.5013     | 0.2940 | 0.6914 | 0.5085 | 0.0210 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+562   | 2083   | 0.4996     | 0.9412 | 0.6905 | 0.3807 | 0.4790 | 0.9578 | strong boundary alignment, moderate area deviation, consistent with neighbor shifts
+563   | 2288   | 0.4938     | 0.2310 | 0.7575 | 0.4117 | 0.7577 | 0.9686 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+564   | 2120   | 0.4919     | 0.6077 | 0.9825 | 0.3948 | 0.3176 | 0.9333 | strong imagery edge evidence, moderate area deviation
+565   | 1914   | 0.4864     | 0.2861 | 0.5626 | 0.4186 | 0.7403 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+566   | 1302   | 0.4784     | 0.1071 | 0.5301 | 0.5014 | 0.1363 | 0.9333 | weak boundary alignment, moderate area deviation
+567   | 2521   | 0.4751     | 0.4898 | 0.6279 | 0.4279 | 0.2735 | 0.9333 | moderate area deviation
+568   | 1325   | 0.4696     | 0.2164 | 0.6773 | 0.4749 | 0.0032 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+569   | 1951   | 0.4674     | 0.1338 | 0.3714 | 0.5130 | 0.0199 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+570   | 2149   | 0.4619     | 0.2735 | 0.6958 | 0.4363 | 0.1758 | 0.9333 | weak boundary alignment, moderate area deviation
+571   | 1395   | 0.4606     | 0.0219 | 0.2897 | 0.5362 | 0.0000 | 0.8509 | weak boundary alignment, weak imagery edge evidence, moderate area deviation, high spatial placement ambiguity
+572   | 1286   | 0.4588     | 0.1907 | 0.3648 | 0.4987 | 0.0143 | 0.9057 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+573   | 1938   | 0.4345     | 0.3470 | 0.5828 | 0.3990 | 0.1946 | 0.9333 | moderate area deviation

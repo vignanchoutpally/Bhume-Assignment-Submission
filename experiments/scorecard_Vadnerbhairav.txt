@@ -1,0 +1,6 @@
+=== 34855_vadnerbhairav_chandavad_nashik · scored on 6 example truths ===
+coverage:    3 corrected + 3 flagged
+accuracy:    median IoU pred=0.872 vs official=0.612  (improvement=0.194, improved 1.000)
+             median centroid err=5.236 m · accurate(IoU>=.5)=1.000
+calibration: Spearman(conf,IoU)=1.000 · AUC=—   (higher = confidence tracks accuracy)
+restraint:   N/A — graded on the hidden set (no control plots here)

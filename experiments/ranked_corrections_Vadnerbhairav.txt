@@ -1,0 +1,576 @@
+=== RANKED CORRECTED PLOTS (ALL) ===
+Rank  | Plot   | Confidence | Align  | Edge   | Shape  | Ambig  | Neigh  | Explanation
+------------------------------------------------------------------------------------------------------------------------
+1     | 1112   | 0.8699     | 0.4525 | 0.7147 | 0.9962 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+2     | 764    | 0.8684     | 0.5376 | 0.6046 | 0.9954 | 1.0000 | 0.9833 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+3     | 1544   | 0.8682     | 0.5548 | 0.6510 | 0.9858 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+4     | 2520   | 0.8654     | 0.5426 | 0.5425 | 0.9894 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+5     | 1165   | 0.8640     | 0.2665 | 0.7979 | 0.9868 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+6     | 16     | 0.8637     | 0.2004 | 0.8015 | 0.9927 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+7     | 1075   | 0.8622     | 0.3872 | 0.6910 | 0.9794 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+8     | 982    | 0.8610     | 0.5722 | 0.6117 | 0.9857 | 0.8353 | 0.9667 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+9     | 721    | 0.8607     | 0.7634 | 1.0000 | 0.9140 | 0.9049 | 0.9529 | strong imagery edge evidence, unambiguous alignment peak, consistent with neighbor shifts
+10    | 28     | 0.8593     | 0.4497 | 0.6878 | 0.9633 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+11    | 1108   | 0.8591     | 0.7219 | 0.7479 | 0.9259 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+12    | 1899   | 0.8587     | 0.0001 | 1.0000 | 0.9767 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+13    | 528    | 0.8573     | 0.2146 | 0.5364 | 1.0000 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+14    | 2051   | 0.8567     | 0.4675 | 0.6250 | 0.9620 | 1.0000 | 0.9833 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+15    | 1480   | 0.8560     | 0.7704 | 0.5796 | 0.9991 | 0.4204 | 0.9529 | excellent shape/area preservation, consistent with neighbor shifts
+16    | 763    | 0.8557     | 0.6688 | 0.6576 | 0.9738 | 0.6494 | 0.9667 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+17    | 1203   | 0.8544     | 0.3492 | 0.4960 | 0.9806 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+18    | 146    | 0.8540     | 0.4215 | 0.5156 | 0.9693 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+19    | 1562   | 0.8535     | 0.5914 | 0.5562 | 0.9443 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+20    | 1314   | 0.8531     | 0.3992 | 0.6523 | 0.9867 | 0.7378 | 0.9667 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+21    | 2056   | 0.8526     | 0.5720 | 0.5766 | 0.9416 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+22    | 2366   | 0.8524     | 0.2651 | 0.8371 | 0.9462 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, unambiguous alignment peak, consistent with neighbor shifts
+23    | 699    | 0.8520     | 0.1856 | 0.5449 | 0.9861 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+24    | 2277   | 0.8514     | 0.2014 | 0.7167 | 0.9634 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+25    | 76     | 0.8505     | 0.3442 | 0.6294 | 0.9547 | 1.0000 | 1.0000 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+26    | 515    | 0.8500     | 0.2579 | 0.5922 | 0.9669 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+27    | 2328   | 0.8497     | 0.4931 | 0.5761 | 0.9634 | 0.8399 | 0.9667 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+28    | 1111   | 0.8496     | 0.9210 | 0.4965 | 0.9028 | 1.0000 | 1.0000 | strong boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+29    | 1872   | 0.8495     | 0.1037 | 0.7084 | 0.9697 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+30    | 404    | 0.8494     | 0.2567 | 0.6104 | 0.9653 | 1.0000 | 0.9833 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+31    | 612    | 0.8488     | 0.5599 | 0.6622 | 0.9223 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+32    | 2626   | 0.8485     | 0.3572 | 0.7221 | 0.9373 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+33    | 1305   | 0.8481     | 0.6574 | 0.8977 | 0.8832 | 1.0000 | 1.0000 | strong imagery edge evidence, unambiguous alignment peak, consistent with neighbor shifts
+34    | 1081   | 0.8481     | 0.5362 | 0.4247 | 0.9513 | 1.0000 | 0.9811 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+35    | 1116   | 0.8480     | 0.6886 | 0.7794 | 0.8927 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+36    | 444    | 0.8478     | 0.0448 | 0.6126 | 0.9821 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+37    | 862    | 0.8476     | 0.3245 | 0.2724 | 0.9934 | 0.9536 | 1.0000 | weak imagery edge evidence, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+38    | 1113   | 0.8474     | 0.9415 | 0.5540 | 0.8877 | 1.0000 | 1.0000 | strong boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+39    | 340    | 0.8468     | 0.2769 | 0.5501 | 0.9604 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+40    | 1416   | 0.8466     | 0.2377 | 0.5241 | 0.9670 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+41    | 540    | 0.8463     | 0.1519 | 0.3056 | 1.0000 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+42    | 379    | 0.8462     | 0.2741 | 0.5189 | 0.9625 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+43    | 1316   | 0.8462     | 0.1383 | 0.5993 | 0.9685 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+44    | 2335   | 0.8449     | 0.1889 | 0.4775 | 0.9730 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+45    | 1035   | 0.8445     | 0.5290 | 0.4389 | 0.9383 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+46    | 799    | 0.8440     | 0.1838 | 0.4687 | 0.9946 | 0.8175 | 0.9778 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+47    | 2582   | 0.8436     | 0.3731 | 0.7560 | 0.9504 | 0.7543 | 0.9529 | excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+48    | 2321   | 0.8433     | 0.1932 | 0.5595 | 0.9589 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+49    | 382    | 0.8432     | 0.2075 | 0.4543 | 0.9688 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+50    | 998    | 0.8431     | 0.1064 | 0.5408 | 0.9700 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+51    | 605    | 0.8430     | 0.2642 | 0.5058 | 0.9895 | 0.7333 | 0.9667 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+52    | 824    | 0.8427     | 0.5888 | 0.6285 | 0.9236 | 0.8602 | 0.9778 | unambiguous alignment peak, consistent with neighbor shifts
+53    | 2049   | 0.8427     | 0.5400 | 0.6959 | 0.9422 | 0.6957 | 0.9556 | unambiguous alignment peak, consistent with neighbor shifts
+54    | 794    | 0.8419     | 0.1458 | 0.4321 | 0.9745 | 1.0000 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+55    | 2603   | 0.8413     | 0.2912 | 0.7773 | 0.9182 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+56    | 815    | 0.8402     | 0.2589 | 0.5863 | 0.9401 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+57    | 781    | 0.8397     | 0.4047 | 0.6127 | 0.9227 | 0.9715 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+58    | 2081   | 0.8396     | 0.4903 | 0.6570 | 0.9613 | 0.5405 | 0.9519 | excellent shape/area preservation, consistent with neighbor shifts
+59    | 2108   | 0.8396     | 0.5830 | 0.6191 | 0.9488 | 0.5996 | 0.9503 | consistent with neighbor shifts
+60    | 1012   | 0.8391     | 0.2248 | 0.4829 | 0.9670 | 0.9067 | 0.9623 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+61    | 626    | 0.8386     | 0.2806 | 0.5215 | 0.9406 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+62    | 2188   | 0.8386     | 0.2275 | 0.6102 | 0.9365 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+63    | 658    | 0.8377     | 0.3104 | 0.5089 | 0.9362 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+64    | 2140   | 0.8375     | 0.6004 | 0.7482 | 0.8769 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+65    | 2131   | 0.8369     | 0.3997 | 0.4972 | 0.9746 | 0.6792 | 0.8787 | excellent shape/area preservation, unambiguous alignment peak
+66    | 1540   | 0.8366     | 0.4910 | 0.5428 | 0.9792 | 0.4184 | 0.9529 | excellent shape/area preservation, consistent with neighbor shifts
+67    | 2279   | 0.8358     | 0.3744 | 0.4776 | 0.9275 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+68    | 1566   | 0.8358     | 0.2893 | 0.5523 | 0.9286 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+69    | 298    | 0.8354     | 0.1811 | 0.6344 | 0.9305 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+70    | 354    | 0.8352     | 0.4358 | 0.5754 | 0.9918 | 0.3152 | 0.9333 | excellent shape/area preservation
+71    | 2620   | 0.8352     | 0.3237 | 0.7172 | 0.9049 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+72    | 2347   | 0.8351     | 0.2014 | 0.6007 | 0.9312 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+73    | 1284   | 0.8350     | 0.3836 | 0.8603 | 0.9775 | 0.2063 | 0.9333 | strong imagery edge evidence, excellent shape/area preservation
+74    | 817    | 0.8348     | 0.2749 | 0.5810 | 0.9244 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+75    | 87     | 0.8338     | 0.4987 | 0.6099 | 0.9231 | 0.7703 | 0.9667 | unambiguous alignment peak, consistent with neighbor shifts
+76    | 368    | 0.8338     | 0.1997 | 0.4957 | 0.9396 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+77    | 972    | 0.8330     | 0.3068 | 0.5417 | 0.9205 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+78    | 2204   | 0.8328     | 0.0775 | 0.4030 | 0.9672 | 0.9436 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+79    | 1197   | 0.8327     | 0.8468 | 0.5904 | 0.9253 | 0.3935 | 0.9686 | strong boundary alignment, consistent with neighbor shifts
+80    | 95     | 0.8327     | 0.1811 | 0.5996 | 0.9298 | 1.0000 | 0.9771 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+81    | 1992   | 0.8326     | 0.2535 | 0.4741 | 0.9329 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+82    | 1019   | 0.8320     | 0.5195 | 0.6600 | 0.8813 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+83    | 516    | 0.8318     | 0.3491 | 0.5386 | 0.9131 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+84    | 44     | 0.8318     | 0.4193 | 0.6646 | 0.9360 | 0.6199 | 0.9778 | unambiguous alignment peak, consistent with neighbor shifts
+85    | 1990   | 0.8316     | 0.3504 | 0.5553 | 0.9227 | 0.9107 | 0.9810 | unambiguous alignment peak, consistent with neighbor shifts
+86    | 1362   | 0.8315     | 0.2599 | 0.4135 | 0.9361 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+87    | 1201   | 0.8313     | 0.3171 | 0.6965 | 0.9858 | 0.2640 | 0.9450 | excellent shape/area preservation
+88    | 1094   | 0.8305     | 0.5987 | 0.4984 | 0.8885 | 1.0000 | 0.9833 | unambiguous alignment peak, consistent with neighbor shifts
+89    | 759    | 0.8304     | 0.4145 | 0.6428 | 0.9436 | 0.5668 | 0.9574 | consistent with neighbor shifts
+90    | 1252   | 0.8303     | 0.0477 | 0.5074 | 0.9497 | 0.9697 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+91    | 2607   | 0.8299     | 0.1528 | 0.4038 | 0.9449 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+92    | 569    | 0.8294     | 0.3807 | 0.7124 | 0.9689 | 0.3030 | 0.9333 | excellent shape/area preservation
+93    | 60     | 0.8287     | 0.1953 | 0.5530 | 0.9207 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+94    | 2642   | 0.8283     | 0.4951 | 0.6483 | 0.9926 | 0.0134 | 0.9333 | excellent shape/area preservation, high spatial placement ambiguity
+95    | 1701   | 0.8281     | 0.4007 | 0.6602 | 0.8845 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+96    | 1036   | 0.8275     | 0.4854 | 0.5190 | 0.8892 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+97    | 2229   | 0.8263     | 0.1008 | 0.4234 | 0.9394 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+98    | 797    | 0.8260     | 0.1785 | 0.4466 | 0.9276 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+99    | 1739   | 0.8260     | 0.4909 | 0.3857 | 0.8995 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+100   | 1875   | 0.8258     | 0.2209 | 0.6840 | 0.8960 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+101   | 1497   | 0.8251     | 0.4357 | 0.5305 | 0.9589 | 0.4013 | 0.9556 | excellent shape/area preservation, consistent with neighbor shifts
+102   | 66     | 0.8251     | 0.5320 | 0.5747 | 0.8938 | 0.8326 | 0.9686 | unambiguous alignment peak, consistent with neighbor shifts
+103   | 1431   | 0.8250     | 0.1297 | 0.6101 | 0.9386 | 0.7787 | 0.9833 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+104   | 315    | 0.8248     | 0.3772 | 0.5371 | 0.8924 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+105   | 2433   | 0.8247     | 0.3985 | 0.5755 | 0.9575 | 0.3969 | 0.9556 | excellent shape/area preservation, consistent with neighbor shifts
+106   | 1924   | 0.8245     | 0.2392 | 0.4390 | 0.9372 | 0.8591 | 0.9667 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+107   | 1087   | 0.8238     | 0.4730 | 0.4980 | 0.8836 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+108   | 2274   | 0.8233     | 0.1540 | 0.3622 | 0.9328 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+109   | 1882   | 0.8233     | 0.2682 | 0.4857 | 0.9064 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+110   | 514    | 0.8230     | 0.1742 | 0.6421 | 0.8988 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+111   | 490    | 0.8226     | 0.1810 | 0.4630 | 0.9167 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+112   | 373    | 0.8224     | 0.1816 | 0.5759 | 0.9953 | 0.2557 | 0.9199 | weak boundary alignment, excellent shape/area preservation
+113   | 700    | 0.8222     | 0.6609 | 0.6162 | 0.8454 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+114   | 2053   | 0.8221     | 0.4389 | 0.5388 | 0.8785 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+115   | 333    | 0.8220     | 0.3221 | 0.4891 | 0.9261 | 0.7704 | 0.9667 | unambiguous alignment peak, consistent with neighbor shifts
+116   | 975    | 0.8214     | 0.3868 | 0.4856 | 0.9262 | 0.7042 | 0.9556 | unambiguous alignment peak, consistent with neighbor shifts
+117   | 13     | 0.8213     | 0.4359 | 0.5868 | 0.8716 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+118   | 1011   | 0.8209     | 0.2536 | 0.3686 | 0.9462 | 0.7517 | 0.9686 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+119   | 372    | 0.8208     | 0.3999 | 0.6900 | 0.8628 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+120   | 1077   | 0.8208     | 0.5972 | 0.6622 | 0.8440 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+121   | 489    | 0.8204     | 0.0141 | 0.4833 | 0.9514 | 0.7865 | 1.0000 | weak boundary alignment, excellent shape/area preservation, unambiguous alignment peak, consistent with neighbor shifts
+122   | 702    | 0.8202     | 0.3804 | 0.6087 | 0.8725 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+123   | 1003   | 0.8199     | 0.1674 | 0.4626 | 0.9908 | 0.3340 | 0.9529 | weak boundary alignment, excellent shape/area preservation, consistent with neighbor shifts
+124   | 1010   | 0.8196     | 0.3303 | 0.5056 | 0.9094 | 0.8393 | 0.9686 | unambiguous alignment peak, consistent with neighbor shifts
+125   | 164    | 0.8193     | 0.3205 | 0.4634 | 0.8931 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+126   | 2079   | 0.8193     | 0.5085 | 0.6104 | 0.8578 | 1.0000 | 0.9833 | unambiguous alignment peak, consistent with neighbor shifts
+127   | 1867   | 0.8188     | 0.3395 | 0.6016 | 0.9877 | 0.0737 | 0.9057 | excellent shape/area preservation, high spatial placement ambiguity
+128   | 1247   | 0.8181     | 0.4266 | 0.6857 | 0.8537 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+129   | 408    | 0.8175     | 0.2692 | 0.7851 | 0.9123 | 0.5649 | 0.9529 | weak boundary alignment, consistent with neighbor shifts
+130   | 2426   | 0.8171     | 0.1807 | 0.6538 | 0.8821 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+131   | 1436   | 0.8171     | 0.2284 | 0.5536 | 0.9484 | 0.5021 | 0.9529 | weak boundary alignment, consistent with neighbor shifts
+132   | 821    | 0.8170     | 0.2187 | 0.4877 | 0.8959 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+133   | 2050   | 0.8169     | 0.5466 | 0.7180 | 0.8362 | 1.0000 | 0.9778 | unambiguous alignment peak, consistent with neighbor shifts
+134   | 1117   | 0.8166     | 0.7845 | 0.5529 | 0.8250 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+135   | 2290   | 0.8163     | 0.2391 | 0.5153 | 0.9147 | 0.7958 | 0.9733 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+136   | 398    | 0.8160     | 0.2184 | 0.5253 | 0.8894 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+137   | 2512   | 0.8158     | 0.8073 | 0.5278 | 0.9109 | 0.2611 | 0.9500 | strong boundary alignment
+138   | 2184   | 0.8154     | 0.3161 | 0.3120 | 0.9007 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+139   | 1629   | 0.8147     | 0.2570 | 0.3608 | 0.9003 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+140   | 880    | 0.8144     | 0.1747 | 0.4485 | 0.9145 | 0.8938 | 0.9667 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+141   | 2623   | 0.8143     | 0.1746 | 0.7031 | 0.8704 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+142   | 1281   | 0.8141     | 0.3365 | 0.6617 | 0.8816 | 0.8084 | 0.9667 | unambiguous alignment peak, consistent with neighbor shifts
+143   | 1001   | 0.8134     | 0.2999 | 0.4870 | 0.9352 | 0.5505 | 0.9371 | weak boundary alignment
+144   | 1204   | 0.8128     | 0.3666 | 0.6523 | 0.8511 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+145   | 1426   | 0.8126     | 0.1384 | 0.5695 | 0.9013 | 0.8848 | 0.9702 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+146   | 2419   | 0.8121     | 0.2470 | 0.4658 | 0.9843 | 0.1567 | 0.9333 | weak boundary alignment, excellent shape/area preservation
+147   | 860    | 0.8118     | 0.2774 | 0.6146 | 0.8628 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+148   | 901    | 0.8115     | 0.1427 | 0.5137 | 0.8924 | 0.9839 | 0.9778 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+149   | 2376   | 0.8113     | 0.2779 | 0.6483 | 0.9683 | 0.0722 | 0.9333 | weak boundary alignment, excellent shape/area preservation, high spatial placement ambiguity
+150   | 2128   | 0.8108     | 0.3688 | 0.5086 | 0.9557 | 0.2442 | 0.9111 | excellent shape/area preservation
+151   | 2247   | 0.8107     | 0.1968 | 0.4191 | 0.9938 | 0.1378 | 0.9333 | weak boundary alignment, excellent shape/area preservation
+152   | 1058   | 0.8101     | 0.4513 | 0.7067 | 0.8291 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+153   | 951    | 0.8097     | 0.2449 | 0.4612 | 0.9270 | 0.5959 | 0.9667 | weak boundary alignment, consistent with neighbor shifts
+154   | 1095   | 0.8094     | 0.7039 | 0.6798 | 0.8023 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+155   | 887    | 0.8092     | 0.4225 | 0.5615 | 0.8462 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+156   | 2227   | 0.8083     | 0.0110 | 0.5490 | 0.9053 | 0.8717 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+157   | 1521   | 0.8081     | 0.2489 | 0.7457 | 0.9706 | 0.0868 | 0.7596 | weak boundary alignment, excellent shape/area preservation, high spatial placement ambiguity, deviates from neighborhood shift pattern
+158   | 184    | 0.8077     | 0.1516 | 0.5607 | 0.9250 | 0.5765 | 0.9529 | weak boundary alignment, consistent with neighbor shifts
+159   | 2646   | 0.8076     | 0.3138 | 0.4735 | 0.9620 | 0.1871 | 0.9333 | excellent shape/area preservation
+160   | 839    | 0.8076     | 0.0565 | 0.4436 | 0.9197 | 0.7875 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+161   | 180    | 0.8073     | 0.2538 | 0.5538 | 0.9713 | 0.0886 | 0.9199 | weak boundary alignment, excellent shape/area preservation, high spatial placement ambiguity
+162   | 2130   | 0.8071     | 0.3992 | 0.6391 | 0.9484 | 0.0552 | 0.9255 | high spatial placement ambiguity
+163   | 678    | 0.8070     | 0.3199 | 0.6734 | 0.8398 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+164   | 2032   | 0.8068     | 0.2150 | 0.6949 | 0.8487 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+165   | 672    | 0.8067     | 0.5019 | 0.5871 | 0.8284 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+166   | 973    | 0.8066     | 0.3808 | 0.5926 | 0.8983 | 0.5344 | 0.9519 | consistent with neighbor shifts
+167   | 1040   | 0.8065     | 0.4101 | 0.5963 | 0.8372 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+168   | 2621   | 0.8064     | 0.3608 | 0.6657 | 0.8348 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+169   | 182    | 0.8062     | 0.2964 | 0.5052 | 0.9094 | 0.6015 | 0.9473 | weak boundary alignment, unambiguous alignment peak
+170   | 148    | 0.8057     | 0.1574 | 0.4777 | 0.8765 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+171   | 39     | 0.8055     | 0.4934 | 0.6311 | 0.8216 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+172   | 1311   | 0.8051     | 0.2041 | 0.4927 | 0.8682 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+173   | 1948   | 0.8049     | 0.2144 | 0.5182 | 0.8638 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+174   | 1981   | 0.8047     | 0.2167 | 0.7839 | 0.8334 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+175   | 387    | 0.8039     | 0.2017 | 0.3759 | 0.8784 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+176   | 1301   | 0.8032     | 0.3662 | 0.8136 | 0.9177 | 0.0970 | 0.9333 | strong imagery edge evidence, high spatial placement ambiguity
+177   | 1276   | 0.8032     | 0.4782 | 0.5079 | 0.9457 | 0.0385 | 0.9333 | high spatial placement ambiguity
+178   | 2073   | 0.8031     | 0.2573 | 0.6150 | 0.8698 | 0.7981 | 0.9686 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+179   | 2370   | 0.8028     | 0.2485 | 0.6214 | 0.9057 | 0.4854 | 0.9529 | weak boundary alignment, consistent with neighbor shifts
+180   | 1082   | 0.8025     | 0.6484 | 0.4689 | 0.8834 | 0.4488 | 0.9371 | moderate evidence across all signals
+181   | 2127   | 0.8024     | 0.2596 | 0.4944 | 0.9729 | 0.0079 | 0.9333 | weak boundary alignment, excellent shape/area preservation, high spatial placement ambiguity
+182   | 1260   | 0.8023     | 0.2971 | 0.3433 | 0.8725 | 0.9794 | 0.9778 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+183   | 1194   | 0.8022     | 0.1972 | 0.6900 | 0.8400 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+184   | 2651   | 0.8013     | 0.2149 | 0.5536 | 0.9439 | 0.2402 | 0.9255 | weak boundary alignment
+185   | 2036   | 0.8003     | 0.5364 | 0.6070 | 0.8070 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+186   | 851    | 0.7988     | 0.4508 | 0.6586 | 0.8083 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+187   | 2577   | 0.7985     | 0.3400 | 0.5025 | 0.9451 | 0.0983 | 0.9333 | high spatial placement ambiguity
+188   | 729    | 0.7981     | 0.5631 | 0.6581 | 0.7949 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+189   | 2249   | 0.7972     | 0.0622 | 0.4835 | 0.8689 | 0.9975 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+190   | 1987   | 0.7958     | 0.2346 | 0.3413 | 0.8633 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+191   | 2339   | 0.7952     | 0.3169 | 0.5125 | 0.9477 | 0.0726 | 0.9057 | high spatial placement ambiguity
+192   | 107    | 0.7944     | 0.2435 | 0.5839 | 0.8481 | 1.0000 | 0.8667 | weak boundary alignment, unambiguous alignment peak
+193   | 2430   | 0.7934     | 0.2890 | 0.7206 | 0.8116 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+194   | 330    | 0.7931     | 0.2644 | 0.3941 | 0.9597 | 0.1088 | 0.9057 | weak boundary alignment, excellent shape/area preservation
+195   | 829    | 0.7916     | 0.5545 | 0.7241 | 0.7791 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+196   | 741    | 0.7914     | 0.3166 | 0.4668 | 0.9651 | 0.0180 | 0.8000 | excellent shape/area preservation, high spatial placement ambiguity
+197   | 357    | 0.7912     | 0.2588 | 0.6889 | 0.9297 | 0.0641 | 0.9057 | weak boundary alignment, high spatial placement ambiguity
+198   | 2513   | 0.7909     | 0.5969 | 0.4211 | 0.9081 | 0.1351 | 0.9556 | consistent with neighbor shifts
+199   | 1008   | 0.7908     | 0.2191 | 0.6325 | 0.8905 | 0.4630 | 0.9503 | weak boundary alignment, consistent with neighbor shifts
+200   | 603    | 0.7903     | 0.4197 | 0.5762 | 0.8860 | 0.3480 | 0.9556 | consistent with neighbor shifts
+201   | 2065   | 0.7900     | 0.2591 | 0.8658 | 0.7939 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+202   | 1258   | 0.7900     | 0.3655 | 0.6529 | 0.8057 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+203   | 755    | 0.7891     | 0.4360 | 0.6520 | 0.8157 | 0.8549 | 0.9733 | unambiguous alignment peak, consistent with neighbor shifts
+204   | 1403   | 0.7883     | 0.5611 | 0.6542 | 0.8867 | 0.1189 | 0.9333 | moderate evidence across all signals
+205   | 671    | 0.7883     | 0.5630 | 0.5528 | 0.8160 | 0.8208 | 0.9667 | unambiguous alignment peak, consistent with neighbor shifts
+206   | 910    | 0.7880     | 0.1682 | 0.3638 | 0.9528 | 0.2469 | 0.8889 | weak boundary alignment, excellent shape/area preservation
+207   | 122    | 0.7879     | 0.0991 | 0.5061 | 0.8487 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+208   | 760    | 0.7862     | 0.5614 | 0.7136 | 0.8718 | 0.1692 | 0.9297 | moderate evidence across all signals
+209   | 126    | 0.7861     | 0.4389 | 0.5677 | 0.8013 | 1.0000 | 1.0000 | unambiguous alignment peak, consistent with neighbor shifts
+210   | 1198   | 0.7844     | 0.3218 | 0.5327 | 0.8607 | 0.6293 | 0.9667 | unambiguous alignment peak, consistent with neighbor shifts
+211   | 883    | 0.7843     | 0.3450 | 0.4310 | 0.9267 | 0.1464 | 0.9333 | moderate evidence across all signals
+212   | 1002   | 0.7840     | 0.2526 | 0.4782 | 0.8966 | 0.4390 | 0.9519 | weak boundary alignment, consistent with neighbor shifts
+213   | 1119   | 0.7810     | 0.4338 | 0.6224 | 0.8263 | 0.7073 | 0.9529 | unambiguous alignment peak, consistent with neighbor shifts
+214   | 1922   | 0.7803     | 0.1773 | 0.4003 | 0.9296 | 0.2664 | 0.9333 | weak boundary alignment
+215   | 1103   | 0.7802     | 0.6111 | 0.5695 | 0.7735 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+216   | 1372   | 0.7778     | 0.1713 | 0.5295 | 0.9170 | 0.2246 | 0.9333 | weak boundary alignment
+217   | 2371   | 0.7764     | 0.2510 | 0.4438 | 0.8220 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+218   | 1275   | 0.7763     | 0.5554 | 0.6892 | 0.7804 | 0.8513 | 0.9733 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+219   | 728    | 0.7750     | 0.6669 | 0.5440 | 0.7627 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+220   | 1501   | 0.7737     | 0.4213 | 0.5662 | 0.8526 | 0.4461 | 0.9503 | consistent with neighbor shifts
+221   | 1004   | 0.7734     | 0.2367 | 0.6576 | 0.8650 | 0.4573 | 0.9167 | weak boundary alignment
+222   | 147    | 0.7728     | 0.2633 | 0.5672 | 0.8018 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+223   | 1740   | 0.7728     | 0.2656 | 0.6286 | 0.8669 | 0.4157 | 0.9333 | weak boundary alignment
+224   | 302    | 0.7716     | 0.1321 | 0.4809 | 0.8242 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+225   | 1120   | 0.7707     | 0.7865 | 0.6359 | 0.7330 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+226   | 2078   | 0.7707     | 0.6685 | 0.8010 | 0.8022 | 0.3844 | 0.9450 | strong imagery edge evidence
+227   | 2618   | 0.7703     | 0.3682 | 0.6364 | 0.7788 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+228   | 768    | 0.7699     | 0.5122 | 0.6445 | 0.7680 | 0.9393 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+229   | 2407   | 0.7695     | 0.2413 | 0.4229 | 0.9159 | 0.1626 | 0.9333 | weak boundary alignment
+230   | 622    | 0.7690     | 0.2678 | 0.8296 | 0.8155 | 0.5935 | 0.9667 | weak boundary alignment, strong imagery edge evidence, consistent with neighbor shifts
+231   | 418    | 0.7680     | 0.4370 | 0.6601 | 0.7652 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+232   | 1070   | 0.7677     | 0.4452 | 0.6476 | 0.7652 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+233   | 758    | 0.7668     | 0.4293 | 0.5851 | 0.7845 | 0.9172 | 0.9764 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+234   | 933    | 0.7659     | 0.1794 | 0.4066 | 0.9273 | 0.0919 | 0.9333 | weak boundary alignment, high spatial placement ambiguity
+235   | 932    | 0.7653     | 0.2792 | 0.2568 | 0.8937 | 0.4525 | 0.9167 | weak boundary alignment, weak imagery edge evidence
+236   | 638    | 0.7648     | 0.5769 | 0.5566 | 0.7639 | 0.9504 | 0.9833 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+237   | 1313   | 0.7642     | 0.5266 | 0.9534 | 0.7172 | 1.0000 | 1.0000 | strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+238   | 1271   | 0.7627     | 0.6603 | 0.6995 | 0.7453 | 0.8701 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+239   | 2248   | 0.7618     | 0.2274 | 0.5324 | 0.8124 | 0.8660 | 0.9667 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+240   | 803    | 0.7597     | 0.1373 | 0.5910 | 0.7942 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+241   | 2610   | 0.7594     | 0.2616 | 0.3446 | 0.8073 | 1.0000 | 1.0000 | weak boundary alignment, unambiguous alignment peak, consistent with neighbor shifts
+242   | 2671   | 0.7593     | 0.0240 | 1.0000 | 0.7707 | 0.9100 | 1.0000 | weak boundary alignment, strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+243   | 2235   | 0.7581     | 0.2709 | 0.6076 | 0.7752 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+244   | 2281   | 0.7579     | 0.2557 | 0.5544 | 0.7825 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+245   | 1683   | 0.7573     | 0.1040 | 0.7372 | 0.7782 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+246   | 1878   | 0.7569     | 0.1464 | 0.5628 | 0.9055 | 0.0473 | 0.9333 | weak boundary alignment, high spatial placement ambiguity
+247   | 1136   | 0.7569     | 0.3832 | 0.4374 | 0.8466 | 0.4471 | 0.9529 | consistent with neighbor shifts
+248   | 2142   | 0.7561     | 0.5027 | 0.5642 | 0.8418 | 0.2532 | 0.9333 | moderate evidence across all signals
+249   | 2237   | 0.7523     | 0.3173 | 0.6757 | 0.7541 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+250   | 42     | 0.7509     | 0.5963 | 0.6606 | 0.7852 | 0.4715 | 0.9667 | moderate area deviation, consistent with neighbor shifts
+251   | 756    | 0.7500     | 0.3195 | 0.5459 | 0.7671 | 1.0000 | 0.9811 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+252   | 1360   | 0.7499     | 0.2865 | 0.5750 | 0.8485 | 0.3170 | 0.9333 | weak boundary alignment
+253   | 968    | 0.7485     | 0.3178 | 0.5077 | 0.8018 | 0.7218 | 0.9667 | unambiguous alignment peak, consistent with neighbor shifts
+254   | 45     | 0.7482     | 0.2329 | 0.6290 | 0.7851 | 0.8209 | 0.9778 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+255   | 1881   | 0.7476     | 0.2077 | 0.5893 | 0.7691 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+256   | 1063   | 0.7476     | 0.0430 | 0.5370 | 0.7939 | 0.9935 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+257   | 1126   | 0.7464     | 0.5500 | 0.4669 | 0.7570 | 0.9043 | 0.9686 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+258   | 631    | 0.7461     | 0.3294 | 0.6284 | 0.7490 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+259   | 723    | 0.7449     | 0.6684 | 0.7719 | 0.7412 | 0.6198 | 0.9529 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+260   | 313    | 0.7447     | 0.3379 | 0.2944 | 0.7832 | 1.0000 | 1.0000 | weak imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+261   | 1324   | 0.7429     | 0.2679 | 0.8164 | 0.7329 | 1.0000 | 0.9778 | weak boundary alignment, strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+262   | 847    | 0.7418     | 0.1873 | 0.4249 | 0.7813 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+263   | 355    | 0.7399     | 0.1574 | 0.7183 | 0.8328 | 0.3134 | 0.9333 | weak boundary alignment
+264   | 1185   | 0.7391     | 0.1909 | 0.6044 | 0.8469 | 0.2580 | 0.9333 | weak boundary alignment
+265   | 1737   | 0.7383     | 0.3121 | 0.2702 | 0.7795 | 1.0000 | 1.0000 | weak imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+266   | 433    | 0.7381     | 0.6198 | 0.6011 | 0.7988 | 0.2514 | 0.9333 | moderate area deviation
+267   | 1272   | 0.7381     | 0.6850 | 0.6348 | 0.6987 | 1.0000 | 0.9867 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+268   | 1427   | 0.7360     | 0.2998 | 0.7533 | 0.8326 | 0.0885 | 0.9333 | weak boundary alignment, high spatial placement ambiguity
+269   | 1371   | 0.7350     | 0.4385 | 0.7631 | 0.7060 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+270   | 1084   | 0.7350     | 0.3781 | 0.5430 | 0.7594 | 0.8180 | 0.9811 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+271   | 1009   | 0.7347     | 0.4466 | 0.7100 | 0.7345 | 0.8166 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+272   | 1125   | 0.7346     | 0.5086 | 0.6173 | 0.7420 | 0.7774 | 0.9686 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+273   | 1219   | 0.7346     | 0.1392 | 0.6164 | 0.7844 | 0.7811 | 0.9529 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+274   | 539    | 0.7338     | 0.2540 | 0.4006 | 0.7650 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+275   | 931    | 0.7330     | 0.4096 | 0.5445 | 0.8398 | 0.1361 | 0.8798 | moderate evidence across all signals
+276   | 2320   | 0.7329     | 0.1747 | 0.4432 | 0.7678 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+277   | 161    | 0.7328     | 0.2338 | 0.4380 | 0.7616 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+278   | 600    | 0.7321     | 0.4521 | 0.4854 | 0.8293 | 0.1822 | 0.9333 | moderate evidence across all signals
+279   | 117    | 0.7319     | 0.2069 | 0.5941 | 0.7460 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+280   | 1720   | 0.7310     | 0.3636 | 0.6059 | 0.7736 | 0.6179 | 0.9529 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+281   | 168    | 0.7284     | 0.1236 | 0.5622 | 0.7537 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+282   | 971    | 0.7271     | 0.3922 | 0.6269 | 0.7975 | 0.3176 | 0.9371 | moderate area deviation
+283   | 772    | 0.7268     | 0.3980 | 0.6497 | 0.7443 | 0.7364 | 0.9656 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+284   | 1943   | 0.7259     | 0.1947 | 0.5066 | 0.7484 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+285   | 602    | 0.7251     | 0.2427 | 0.5054 | 0.7685 | 0.7878 | 0.9733 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+286   | 1859   | 0.7248     | 0.2931 | 0.4460 | 0.8275 | 0.3020 | 0.9333 | weak boundary alignment
+287   | 1317   | 0.7239     | 0.2073 | 0.5855 | 0.7353 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+288   | 453    | 0.7238     | 0.1699 | 0.6743 | 0.7295 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+289   | 782    | 0.7234     | 0.2496 | 0.4826 | 0.7730 | 0.7484 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+290   | 1107   | 0.7233     | 0.4079 | 0.5448 | 0.7167 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+291   | 2012   | 0.7232     | 0.4854 | 0.6635 | 0.6948 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+292   | 1476   | 0.7209     | 0.5093 | 0.6332 | 0.8028 | 0.0715 | 0.9333 | high spatial placement ambiguity
+293   | 1332   | 0.7202     | 0.1009 | 0.3564 | 0.7699 | 0.9762 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+294   | 1802   | 0.7186     | 0.7270 | 0.5738 | 0.6712 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+295   | 1827   | 0.7182     | 0.1877 | 0.6919 | 0.7175 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+296   | 1770   | 0.7174     | 0.2602 | 0.5160 | 0.8464 | 0.0263 | 0.9057 | weak boundary alignment, high spatial placement ambiguity
+297   | 2075   | 0.7166     | 0.5417 | 0.5057 | 0.7347 | 0.6854 | 0.9704 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+298   | 1089   | 0.7164     | 0.6961 | 0.5575 | 0.6733 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+299   | 150    | 0.7164     | 0.2815 | 0.5157 | 0.7239 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+300   | 979    | 0.7161     | 0.5741 | 0.5490 | 0.7782 | 0.2769 | 0.9057 | moderate area deviation
+301   | 949    | 0.7160     | 0.2054 | 0.6426 | 0.8232 | 0.1181 | 0.9333 | weak boundary alignment
+302   | 963    | 0.7156     | 0.4448 | 0.4345 | 0.7525 | 0.6978 | 0.9529 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+303   | 2337   | 0.7142     | 0.2834 | 0.5938 | 0.7535 | 0.6731 | 0.9529 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+304   | 610    | 0.7134     | 0.3487 | 0.5518 | 0.7096 | 1.0000 | 0.9867 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+305   | 1069   | 0.7124     | 0.3515 | 0.6227 | 0.6985 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+306   | 1264   | 0.7123     | 0.3669 | 0.5217 | 0.7141 | 0.9687 | 0.9764 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+307   | 2001   | 0.7118     | 0.2619 | 0.6032 | 0.7099 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+308   | 105    | 0.7100     | 0.1388 | 0.6553 | 0.7151 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+309   | 1257   | 0.7093     | 0.1615 | 0.3756 | 0.7426 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+310   | 1283   | 0.7091     | 0.3972 | 0.6490 | 0.6883 | 1.0000 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+311   | 2109   | 0.7085     | 0.3737 | 0.4981 | 0.8185 | 0.0461 | 0.9255 | high spatial placement ambiguity
+312   | 2649   | 0.7083     | 0.3249 | 0.7529 | 0.6836 | 1.0000 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+313   | 871    | 0.7070     | 0.1362 | 0.4359 | 0.8473 | 0.0591 | 0.9333 | weak boundary alignment, high spatial placement ambiguity
+314   | 401    | 0.7062     | 0.1366 | 0.4726 | 0.7320 | 1.0000 | 0.9833 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+315   | 1211   | 0.7057     | 0.2683 | 0.6603 | 0.8097 | 0.0243 | 0.9333 | weak boundary alignment, high spatial placement ambiguity
+316   | 2511   | 0.7056     | 0.2556 | 0.5445 | 0.7100 | 1.0000 | 0.9833 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+317   | 1413   | 0.7054     | 0.2580 | 0.6731 | 0.6933 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+318   | 1262   | 0.7054     | 0.2286 | 0.4379 | 0.7239 | 1.0000 | 0.9889 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+319   | 1072   | 0.7053     | 0.5225 | 0.6912 | 0.6617 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+320   | 1090   | 0.7051     | 0.6448 | 0.5897 | 0.6717 | 0.9105 | 0.9764 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+321   | 2352   | 0.7047     | 0.1246 | 0.4034 | 0.7587 | 0.8377 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+322   | 1261   | 0.7046     | 0.5358 | 0.4640 | 0.7065 | 0.8288 | 0.9733 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+323   | 2286   | 0.7044     | 0.2866 | 0.6243 | 0.8119 | 0.0055 | 0.9333 | weak boundary alignment, high spatial placement ambiguity
+324   | 2242   | 0.7042     | 0.6182 | 0.5221 | 0.6682 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+325   | 2414   | 0.7027     | 0.2423 | 0.7464 | 0.6994 | 0.8832 | 0.9686 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+326   | 2443   | 0.7027     | 0.5190 | 0.7848 | 0.7022 | 0.5447 | 0.9667 | moderate area deviation, consistent with neighbor shifts
+327   | 2076   | 0.7022     | 0.5303 | 0.5610 | 0.6938 | 0.8151 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+328   | 374    | 0.7022     | 0.1791 | 0.5400 | 0.7311 | 0.8625 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+329   | 2325   | 0.7021     | 0.3320 | 0.5207 | 0.6972 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+330   | 739    | 0.6985     | 0.3495 | 0.6204 | 0.6790 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+331   | 1697   | 0.6969     | 0.0688 | 0.3513 | 0.8523 | 0.0349 | 0.9333 | weak boundary alignment, high spatial placement ambiguity
+332   | 2411   | 0.6962     | 0.3901 | 0.6780 | 0.6698 | 0.9772 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+333   | 88     | 0.6957     | 0.4035 | 0.5272 | 0.7150 | 0.7118 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+334   | 305    | 0.6953     | 0.1500 | 0.5037 | 0.7095 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+335   | 573    | 0.6940     | 0.1486 | 0.4064 | 0.7186 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+336   | 2009   | 0.6914     | 0.2647 | 0.5823 | 0.7146 | 0.7430 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+337   | 2668   | 0.6887     | 0.2734 | 0.6691 | 0.6679 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+338   | 1306   | 0.6886     | 0.5030 | 0.5340 | 0.6573 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+339   | 2334   | 0.6865     | 0.1139 | 0.5082 | 0.7002 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+340   | 899    | 0.6861     | 0.1422 | 0.3880 | 0.7482 | 0.6887 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+341   | 128    | 0.6857     | 0.3878 | 0.4353 | 0.6917 | 0.8882 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+342   | 2000   | 0.6850     | 0.2448 | 0.5461 | 0.6793 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+343   | 1207   | 0.6836     | 0.5675 | 0.6349 | 0.6317 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+344   | 929    | 0.6835     | 0.1354 | 0.5477 | 0.7195 | 0.8612 | 0.8656 | weak boundary alignment, moderate area deviation, unambiguous alignment peak
+345   | 701    | 0.6835     | 0.5013 | 0.6765 | 0.6341 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+346   | 757    | 0.6824     | 0.5119 | 0.5906 | 0.6441 | 0.9725 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+347   | 1057   | 0.6822     | 0.2468 | 0.7017 | 0.6577 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+348   | 335    | 0.6817     | 0.2098 | 0.4356 | 0.7887 | 0.1842 | 0.9333 | weak boundary alignment, moderate area deviation
+349   | 840    | 0.6814     | 0.2106 | 0.5856 | 0.6735 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+350   | 886    | 0.6801     | 0.4835 | 0.5624 | 0.6665 | 0.8190 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+351   | 2107   | 0.6798     | 0.6042 | 0.7633 | 0.6388 | 0.7542 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+352   | 1066   | 0.6796     | 0.3313 | 0.4210 | 0.6785 | 1.0000 | 0.9764 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+353   | 2238   | 0.6790     | 0.3962 | 0.7681 | 0.6292 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+354   | 102    | 0.6778     | 0.1233 | 0.4944 | 0.8095 | 0.0564 | 0.8509 | weak boundary alignment, high spatial placement ambiguity
+355   | 560    | 0.6771     | 0.2901 | 0.4969 | 0.6684 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+356   | 1045   | 0.6768     | 0.7629 | 0.7575 | 0.5864 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+357   | 1495   | 0.6759     | 0.2890 | 0.5494 | 0.6837 | 0.8172 | 0.9778 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+358   | 2480   | 0.6754     | 0.2113 | 0.6090 | 0.7740 | 0.0608 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+359   | 801    | 0.6752     | 0.1888 | 0.4180 | 0.6857 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+360   | 2432   | 0.6748     | 0.2788 | 0.8016 | 0.6325 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+361   | 2527   | 0.6747     | 0.6905 | 0.4776 | 0.6225 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+362   | 1932   | 0.6738     | 0.1852 | 0.4632 | 0.6790 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+363   | 1102   | 0.6736     | 0.6537 | 0.6057 | 0.6664 | 0.5336 | 0.9667 | moderate area deviation, consistent with neighbor shifts
+364   | 798    | 0.6724     | 0.1840 | 0.4592 | 0.6776 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+365   | 43     | 0.6709     | 0.6582 | 0.5712 | 0.6719 | 0.4671 | 0.9778 | moderate area deviation, consistent with neighbor shifts
+366   | 1142   | 0.6696     | 0.4135 | 0.5124 | 0.7325 | 0.2529 | 0.9333 | moderate area deviation
+367   | 2236   | 0.6677     | 0.4140 | 0.6833 | 0.6204 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+368   | 777    | 0.6672     | 0.1182 | 0.5308 | 0.6694 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+369   | 2111   | 0.6668     | 0.2089 | 0.5217 | 0.7791 | 0.0741 | 0.8509 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+370   | 606    | 0.6660     | 0.3968 | 0.7025 | 0.6217 | 0.9903 | 0.9733 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+371   | 304    | 0.6660     | 0.1463 | 0.5668 | 0.6605 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+372   | 405    | 0.6657     | 0.2197 | 0.5719 | 0.7048 | 0.5642 | 0.9556 | weak boundary alignment, moderate area deviation, consistent with neighbor shifts
+373   | 334    | 0.6656     | 0.2939 | 0.3993 | 0.7058 | 0.6402 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+374   | 2563   | 0.6649     | 0.2496 | 0.7519 | 0.7441 | 0.0120 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+375   | 1238   | 0.6643     | 0.0989 | 0.4053 | 0.6813 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+376   | 1291   | 0.6631     | 0.1610 | 0.5151 | 0.7927 | 0.0210 | 0.7892 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity, deviates from neighborhood shift pattern
+377   | 2217   | 0.6620     | 0.5428 | 0.4727 | 0.6211 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+378   | 2289   | 0.6610     | 0.3280 | 0.4318 | 0.6824 | 0.7251 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+379   | 980    | 0.6600     | 0.2489 | 0.5951 | 0.6568 | 0.8624 | 0.9627 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+380   | 753    | 0.6599     | 0.2794 | 0.5790 | 0.6766 | 0.6641 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+381   | 1083   | 0.6596     | 0.5797 | 0.4824 | 0.6126 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+382   | 879    | 0.6596     | 0.2809 | 0.4567 | 0.6746 | 0.7987 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+383   | 388    | 0.6594     | 0.1114 | 0.4299 | 0.6701 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+384   | 927    | 0.6585     | 0.1804 | 0.3748 | 0.6895 | 0.9339 | 0.8667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak
+385   | 1278   | 0.6580     | 0.2717 | 0.4989 | 0.6425 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+386   | 179    | 0.6578     | 0.6794 | 0.6161 | 0.6283 | 0.6283 | 0.9733 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+387   | 1101   | 0.6578     | 0.5430 | 0.5146 | 0.6576 | 0.6246 | 0.9503 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+388   | 823    | 0.6575     | 0.2080 | 0.4104 | 0.6938 | 0.7071 | 0.9778 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+389   | 1717   | 0.6572     | 0.4156 | 0.5467 | 0.6201 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+390   | 2489   | 0.6554     | 0.1899 | 0.2916 | 0.7845 | 0.0258 | 0.9529 | weak boundary alignment, weak imagery edge evidence, moderate area deviation, high spatial placement ambiguity, consistent with neighbor shifts
+391   | 969    | 0.6553     | 0.3004 | 0.5986 | 0.6786 | 0.5581 | 0.9542 | moderate area deviation, consistent with neighbor shifts
+392   | 2205   | 0.6552     | 0.0777 | 0.4152 | 0.6736 | 0.9627 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+393   | 2510   | 0.6549     | 0.4903 | 0.4353 | 0.7050 | 0.2876 | 0.9556 | moderate area deviation, consistent with neighbor shifts
+394   | 1419   | 0.6542     | 0.0841 | 0.3959 | 0.7878 | 0.0009 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+395   | 2488   | 0.6541     | 0.2357 | 0.3869 | 0.7591 | 0.1148 | 0.9333 | weak boundary alignment, moderate area deviation
+396   | 2031   | 0.6534     | 0.1765 | 0.5031 | 0.6460 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+397   | 773    | 0.6533     | 0.4023 | 0.6123 | 0.6087 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+398   | 1687   | 0.6527     | 0.4380 | 0.6644 | 0.7075 | 0.0817 | 0.9333 | moderate area deviation, high spatial placement ambiguity
+399   | 1200   | 0.6518     | 0.2042 | 0.4983 | 0.6863 | 0.6367 | 0.9578 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+400   | 587    | 0.6516     | 0.1762 | 0.5921 | 0.7353 | 0.1519 | 0.9333 | weak boundary alignment, moderate area deviation
+401   | 2448   | 0.6513     | 0.3327 | 0.4523 | 0.7547 | 0.0385 | 0.8509 | moderate area deviation, high spatial placement ambiguity
+402   | 390    | 0.6512     | 0.3326 | 0.7995 | 0.6275 | 0.7186 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+403   | 1494   | 0.6511     | 0.2044 | 0.6487 | 0.6509 | 0.7695 | 0.9833 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+404   | 2150   | 0.6505     | 0.3543 | 0.6718 | 0.6294 | 0.7988 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+405   | 120    | 0.6503     | 0.1032 | 0.5084 | 0.6492 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+406   | 861    | 0.6500     | 0.4634 | 0.4022 | 0.6373 | 0.8661 | 0.9833 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+407   | 1059   | 0.6497     | 0.3558 | 0.5349 | 0.6173 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+408   | 1712   | 0.6491     | 0.3101 | 0.5464 | 0.7385 | 0.0292 | 0.9057 | moderate area deviation, high spatial placement ambiguity
+409   | 1652   | 0.6481     | 0.1547 | 0.5475 | 0.7448 | 0.0866 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+410   | 2415   | 0.6469     | 0.3485 | 0.6548 | 0.6987 | 0.2016 | 0.9167 | moderate area deviation
+411   | 1597   | 0.6465     | 0.5371 | 0.5402 | 0.5919 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+412   | 300    | 0.6457     | 0.0000 | 0.6902 | 0.6337 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+413   | 2637   | 0.6449     | 0.2666 | 0.6030 | 0.6128 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+414   | 2230   | 0.6447     | 0.0923 | 0.3803 | 0.6594 | 0.9743 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+415   | 226    | 0.6436     | 0.2739 | 0.3132 | 0.6423 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+416   | 520    | 0.6424     | 0.3309 | 0.6079 | 0.6014 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+417   | 613    | 0.6419     | 0.4812 | 0.5976 | 0.5852 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+418   | 1703   | 0.6413     | 0.3034 | 0.5006 | 0.7282 | 0.0452 | 0.9333 | moderate area deviation, high spatial placement ambiguity
+419   | 770    | 0.6412     | 0.1643 | 0.4456 | 0.7453 | 0.0839 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+420   | 744    | 0.6408     | 0.2894 | 0.5929 | 0.6054 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+421   | 590    | 0.6393     | 0.0730 | 0.7659 | 0.6917 | 0.3137 | 0.9333 | weak boundary alignment, moderate area deviation
+422   | 1130   | 0.6389     | 0.5271 | 0.5524 | 0.5806 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+423   | 903    | 0.6373     | 0.2117 | 0.5001 | 0.6192 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+424   | 670    | 0.6372     | 0.2779 | 0.4722 | 0.6832 | 0.4521 | 0.9333 | weak boundary alignment, moderate area deviation
+425   | 286    | 0.6370     | 0.0955 | 0.4636 | 0.6358 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+426   | 666    | 0.6366     | 0.1116 | 0.4901 | 0.6304 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+427   | 2294   | 0.6363     | 0.4315 | 0.6524 | 0.5765 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+428   | 1154   | 0.6359     | 0.2659 | 0.9543 | 0.5607 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+429   | 1402   | 0.6352     | 0.1276 | 0.9056 | 0.6772 | 0.1963 | 0.9333 | weak boundary alignment, strong imagery edge evidence, moderate area deviation
+430   | 1728   | 0.6344     | 0.3841 | 0.6608 | 0.5780 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+431   | 2424   | 0.6332     | 0.0651 | 0.3403 | 0.6702 | 0.7953 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+432   | 2444   | 0.6322     | 0.6067 | 0.8855 | 0.5252 | 1.0000 | 1.0000 | strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+433   | 937    | 0.6316     | 0.1403 | 0.2700 | 0.6445 | 1.0000 | 1.0000 | weak boundary alignment, weak imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+434   | 1115   | 0.6306     | 0.6151 | 0.7551 | 0.5365 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+435   | 2129   | 0.6301     | 0.3826 | 0.5554 | 0.6918 | 0.1184 | 0.9084 | moderate area deviation
+436   | 1542   | 0.6293     | 0.3730 | 0.6634 | 0.5791 | 0.9488 | 0.9833 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+437   | 288    | 0.6289     | 0.2354 | 0.4822 | 0.6065 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+438   | 518    | 0.6278     | 0.1944 | 0.5262 | 0.6045 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+439   | 885    | 0.6271     | 0.2348 | 0.5276 | 0.5989 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+440   | 2559   | 0.6269     | 0.6013 | 0.7631 | 0.6476 | 0.0513 | 0.9057 | moderate area deviation, high spatial placement ambiguity
+441   | 765    | 0.6261     | 0.4291 | 0.5822 | 0.6769 | 0.1108 | 0.9255 | moderate area deviation
+442   | 1704   | 0.6260     | 0.4703 | 0.4945 | 0.5818 | 0.9701 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+443   | 1114   | 0.6258     | 0.6250 | 0.6831 | 0.5364 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+444   | 297    | 0.6251     | 0.2245 | 0.4636 | 0.6043 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+445   | 1096   | 0.6233     | 0.5355 | 0.4469 | 0.5714 | 1.0000 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+446   | 127    | 0.6215     | 0.5483 | 0.5727 | 0.5510 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+447   | 1732   | 0.6207     | 0.6088 | 0.4840 | 0.5530 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+448   | 1030   | 0.6199     | 0.2962 | 0.5800 | 0.6886 | 0.0514 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+449   | 1355   | 0.6197     | 0.3382 | 0.6642 | 0.6473 | 0.2949 | 0.9333 | moderate area deviation
+450   | 224    | 0.6195     | 0.1309 | 0.2597 | 0.6335 | 0.9623 | 1.0000 | weak boundary alignment, weak imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+451   | 1213   | 0.6180     | 0.4349 | 0.8271 | 0.5888 | 0.5221 | 0.9503 | strong imagery edge evidence, moderate area deviation, consistent with neighbor shifts
+452   | 2619   | 0.6175     | 0.1838 | 0.6260 | 0.5798 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+453   | 2416   | 0.6163     | 0.2226 | 0.6590 | 0.5992 | 0.7842 | 0.9529 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+454   | 2292   | 0.6161     | 0.1734 | 0.6589 | 0.6902 | 0.0313 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+455   | 1489   | 0.6159     | 0.1760 | 0.4747 | 0.7069 | 0.0603 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+456   | 53     | 0.6156     | 0.3185 | 0.5015 | 0.5758 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+457   | 2576   | 0.6136     | 0.3116 | 0.6618 | 0.5928 | 0.7009 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+458   | 1946   | 0.6131     | 0.0823 | 0.3126 | 0.6385 | 0.8291 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+459   | 1630   | 0.6118     | 0.4969 | 0.4102 | 0.5608 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+460   | 2054   | 0.6109     | 0.4323 | 0.5949 | 0.5460 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+461   | 2434   | 0.6090     | 0.3464 | 0.6859 | 0.6552 | 0.0541 | 0.9333 | moderate area deviation, high spatial placement ambiguity
+462   | 1016   | 0.6076     | 0.6240 | 0.6929 | 0.5091 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+463   | 322    | 0.6066     | 0.2869 | 0.6667 | 0.5480 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+464   | 371    | 0.6050     | 0.3475 | 0.4514 | 0.5629 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+465   | 967    | 0.6048     | 0.3628 | 0.4790 | 0.6007 | 0.6372 | 0.9764 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+466   | 714    | 0.6040     | 0.7446 | 0.7643 | 0.4825 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+467   | 791    | 0.6034     | 0.0703 | 0.5212 | 0.5876 | 0.9643 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+468   | 2429   | 0.6025     | 0.3649 | 0.6306 | 0.5374 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+469   | 175    | 0.6024     | 0.2953 | 0.5634 | 0.5560 | 1.0000 | 0.9686 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+470   | 29     | 0.6021     | 0.2230 | 0.5558 | 0.6770 | 0.1043 | 0.8509 | weak boundary alignment, moderate area deviation
+471   | 1830   | 0.6018     | 0.3351 | 0.5444 | 0.5493 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+472   | 611    | 0.6017     | 0.5257 | 0.7786 | 0.5118 | 0.9119 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+473   | 178    | 0.6010     | 0.2950 | 0.5333 | 0.5557 | 1.0000 | 0.9833 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+474   | 1143   | 0.6004     | 0.5706 | 0.5893 | 0.5745 | 0.5418 | 0.9333 | moderate area deviation
+475   | 2077   | 0.6000     | 0.6234 | 0.4826 | 0.5290 | 0.9561 | 0.9764 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+476   | 1971   | 0.5993     | 0.0772 | 0.3700 | 0.7022 | 0.0894 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+477   | 1721   | 0.5986     | 0.3569 | 0.7127 | 0.6446 | 0.0056 | 0.9057 | moderate area deviation, high spatial placement ambiguity
+478   | 2402   | 0.5984     | 0.0129 | 0.5915 | 0.6926 | 0.0076 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+479   | 1738   | 0.5981     | 0.4657 | 0.3000 | 0.5603 | 1.0000 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+480   | 1980   | 0.5976     | 0.3667 | 0.7595 | 0.5159 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+481   | 1496   | 0.5964     | 0.4920 | 0.6516 | 0.5239 | 0.9101 | 0.9843 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+482   | 1628   | 0.5945     | 0.3817 | 0.4420 | 0.5450 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+483   | 417    | 0.5943     | 0.3495 | 0.7366 | 0.6317 | 0.0211 | 0.9333 | moderate area deviation, high spatial placement ambiguity
+484   | 183    | 0.5942     | 0.1989 | 0.6193 | 0.6315 | 0.2765 | 0.9473 | weak boundary alignment, moderate area deviation
+485   | 396    | 0.5932     | 0.1366 | 0.4686 | 0.5673 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+486   | 1809   | 0.5921     | 0.2297 | 0.4515 | 0.5574 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+487   | 2084   | 0.5909     | 0.6048 | 0.4087 | 0.5869 | 0.4200 | 0.9667 | moderate area deviation, consistent with neighbor shifts
+488   | 2006   | 0.5908     | 0.3722 | 0.5908 | 0.5242 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+489   | 1020   | 0.5897     | 0.5512 | 0.6740 | 0.4934 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+490   | 2302   | 0.5894     | 0.4645 | 0.5449 | 0.5429 | 0.7929 | 0.9733 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+491   | 2622   | 0.5884     | 0.2155 | 0.5668 | 0.5407 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+492   | 952    | 0.5866     | 0.4617 | 0.4179 | 0.5401 | 0.9080 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+493   | 191    | 0.5846     | 0.2826 | 0.4575 | 0.5400 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+494   | 838    | 0.5843     | 0.0458 | 0.6045 | 0.5516 | 0.9819 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+495   | 2395   | 0.5831     | 0.2730 | 0.3973 | 0.6530 | 0.1822 | 0.8509 | weak boundary alignment, moderate area deviation
+496   | 1088   | 0.5830     | 0.4662 | 0.6188 | 0.4993 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+497   | 2636   | 0.5829     | 0.2141 | 0.4974 | 0.5406 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+498   | 67     | 0.5813     | 0.6401 | 0.7496 | 0.5179 | 0.5544 | 0.9529 | moderate area deviation, consistent with neighbor shifts
+499   | 2080   | 0.5801     | 0.4694 | 0.4153 | 0.6163 | 0.1604 | 0.9503 | moderate area deviation, consistent with neighbor shifts
+500   | 898    | 0.5794     | 0.1564 | 0.4035 | 0.5525 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+501   | 1578   | 0.5791     | 0.0215 | 0.5143 | 0.6603 | 0.1156 | 0.9333 | weak boundary alignment, moderate area deviation
+502   | 2308   | 0.5790     | 0.3665 | 0.8079 | 0.5070 | 0.8226 | 0.9667 | strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+503   | 1282   | 0.5778     | 0.5007 | 0.6557 | 0.4857 | 1.0000 | 0.9833 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+504   | 1707   | 0.5772     | 0.3523 | 0.5136 | 0.5301 | 1.0000 | 0.8667 | moderate area deviation, unambiguous alignment peak
+505   | 2293   | 0.5770     | 0.1847 | 0.7372 | 0.5361 | 0.7768 | 0.9778 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+506   | 987    | 0.5749     | 0.2438 | 0.4836 | 0.5292 | 1.0000 | 0.9833 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+507   | 129    | 0.5730     | 0.5923 | 0.4348 | 0.5818 | 0.2521 | 0.9333 | moderate area deviation
+508   | 970    | 0.5720     | 0.3227 | 0.3556 | 0.5436 | 0.9035 | 0.9623 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+509   | 2035   | 0.5708     | 0.4700 | 0.5007 | 0.5132 | 0.8526 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+510   | 1046   | 0.5707     | 0.4633 | 0.6264 | 0.4837 | 1.0000 | 0.9764 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+511   | 685    | 0.5684     | 0.2938 | 0.5137 | 0.5090 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+512   | 934    | 0.5682     | 0.2616 | 0.3034 | 0.6305 | 0.2395 | 0.9084 | weak boundary alignment, moderate area deviation
+513   | 116    | 0.5673     | 0.2135 | 0.6220 | 0.5044 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+514   | 1273   | 0.5660     | 0.4879 | 0.5343 | 0.4864 | 0.9698 | 0.9889 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+515   | 2151   | 0.5637     | 0.5827 | 0.8995 | 0.4274 | 1.0000 | 1.0000 | strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+516   | 2278   | 0.5637     | 0.3422 | 0.6573 | 0.4809 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+517   | 375    | 0.5623     | 0.1509 | 0.4066 | 0.5606 | 0.7402 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+518   | 1220   | 0.5619     | 0.1910 | 0.7476 | 0.5391 | 0.5610 | 0.9529 | weak boundary alignment, moderate area deviation, consistent with neighbor shifts
+519   | 294    | 0.5599     | 0.2887 | 0.4433 | 0.5052 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+520   | 855    | 0.5578     | 0.0751 | 0.3909 | 0.6445 | 0.0514 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+521   | 1263   | 0.5539     | 0.5599 | 0.5397 | 0.4557 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+522   | 767    | 0.5524     | 0.6070 | 0.8251 | 0.4690 | 0.5727 | 0.9556 | strong imagery edge evidence, moderate area deviation, consistent with neighbor shifts
+523   | 2060   | 0.5523     | 0.5161 | 0.4964 | 0.4631 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+524   | 1879   | 0.5498     | 0.2983 | 0.6350 | 0.4918 | 0.8349 | 0.9529 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+525   | 1429   | 0.5487     | 0.3279 | 0.5929 | 0.4957 | 0.7840 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+526   | 1156   | 0.5469     | 0.1403 | 0.8915 | 0.4531 | 1.0000 | 1.0000 | weak boundary alignment, strong imagery edge evidence, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+527   | 403    | 0.5459     | 0.1816 | 0.5221 | 0.5392 | 0.5872 | 0.9529 | weak boundary alignment, moderate area deviation, consistent with neighbor shifts
+528   | 2029   | 0.5441     | 0.5149 | 0.7564 | 0.4477 | 0.7951 | 0.9778 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+529   | 724    | 0.5441     | 0.7549 | 0.7410 | 0.4577 | 0.5077 | 0.9503 | moderate area deviation, consistent with neighbor shifts
+530   | 745    | 0.5422     | 0.5110 | 0.6275 | 0.4345 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+531   | 1361   | 0.5408     | 0.3831 | 0.4583 | 0.5064 | 0.6642 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+532   | 976    | 0.5405     | 0.3651 | 0.3062 | 0.4937 | 0.9452 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+533   | 1214   | 0.5401     | 0.3396 | 0.9178 | 0.4899 | 0.4217 | 0.9333 | strong imagery edge evidence, moderate area deviation
+534   | 1042   | 0.5400     | 0.5037 | 0.4783 | 0.5555 | 0.1327 | 0.9057 | moderate area deviation
+535   | 1964   | 0.5394     | 0.1876 | 0.4425 | 0.6055 | 0.1319 | 0.8000 | weak boundary alignment, moderate area deviation
+536   | 1748   | 0.5357     | 0.2795 | 0.4926 | 0.5948 | 0.2652 | 0.5731 | weak boundary alignment, moderate area deviation, deviates from neighborhood shift pattern
+537   | 1655   | 0.5352     | 0.0985 | 0.4428 | 0.6143 | 0.0367 | 0.8509 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+538   | 2327   | 0.5342     | 0.4632 | 0.5795 | 0.4722 | 0.6855 | 0.9667 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+539   | 774    | 0.5338     | 0.4324 | 0.6574 | 0.4278 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+540   | 502    | 0.5308     | 0.1009 | 0.5915 | 0.4676 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+541   | 548    | 0.5307     | 0.3102 | 0.5596 | 0.4477 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+542   | 748    | 0.5304     | 0.5240 | 0.5911 | 0.5338 | 0.0430 | 0.9333 | moderate area deviation, high spatial placement ambiguity
+543   | 1061   | 0.5290     | 0.2326 | 0.5363 | 0.4565 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+544   | 1506   | 0.5279     | 0.3296 | 0.4076 | 0.5840 | 0.1096 | 0.7596 | moderate area deviation, deviates from neighborhood shift pattern
+545   | 570    | 0.5262     | 0.1156 | 0.6284 | 0.5606 | 0.1181 | 0.9333 | weak boundary alignment, moderate area deviation
+546   | 1902   | 0.5258     | 0.3911 | 0.6110 | 0.5112 | 0.2999 | 0.9333 | moderate area deviation
+547   | 225    | 0.5258     | 0.2181 | 0.3951 | 0.4692 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+548   | 2239   | 0.5197     | 0.2365 | 0.5643 | 0.4395 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+549   | 869    | 0.5196     | 0.2377 | 0.3979 | 0.4576 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+550   | 607    | 0.5196     | 0.2084 | 0.4422 | 0.4584 | 1.0000 | 0.9778 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+551   | 2627   | 0.5193     | 0.1093 | 0.6764 | 0.4406 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+552   | 98     | 0.5192     | 0.2609 | 0.6951 | 0.4326 | 0.9325 | 0.9686 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+553   | 1576   | 0.5164     | 0.4475 | 0.5650 | 0.5143 | 0.1390 | 0.9333 | moderate area deviation
+554   | 1330   | 0.5120     | 0.3539 | 0.6502 | 0.4058 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+555   | 1435   | 0.5103     | 0.2959 | 0.4094 | 0.5344 | 0.1933 | 0.9255 | weak boundary alignment, moderate area deviation
+556   | 1054   | 0.5089     | 0.5023 | 0.5899 | 0.3915 | 1.0000 | 1.0000 | moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+557   | 541    | 0.5076     | 0.1836 | 0.5773 | 0.4265 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+558   | 2547   | 0.5058     | 0.1144 | 0.3962 | 0.4516 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+559   | 2355   | 0.5033     | 0.0978 | 0.4265 | 0.4914 | 0.6299 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+560   | 888    | 0.5030     | 0.2379 | 0.3704 | 0.4368 | 1.0000 | 1.0000 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+561   | 2307   | 0.5013     | 0.2940 | 0.6914 | 0.5085 | 0.0210 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+562   | 2083   | 0.4996     | 0.9412 | 0.6905 | 0.3807 | 0.4790 | 0.9578 | strong boundary alignment, moderate area deviation, consistent with neighbor shifts
+563   | 2288   | 0.4938     | 0.2310 | 0.7575 | 0.4117 | 0.7577 | 0.9686 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+564   | 2120   | 0.4919     | 0.6077 | 0.9825 | 0.3948 | 0.3176 | 0.9333 | strong imagery edge evidence, moderate area deviation
+565   | 1914   | 0.4864     | 0.2861 | 0.5626 | 0.4186 | 0.7403 | 0.9667 | weak boundary alignment, moderate area deviation, unambiguous alignment peak, consistent with neighbor shifts
+566   | 1302   | 0.4784     | 0.1071 | 0.5301 | 0.5014 | 0.1363 | 0.9333 | weak boundary alignment, moderate area deviation
+567   | 2521   | 0.4751     | 0.4898 | 0.6279 | 0.4279 | 0.2735 | 0.9333 | moderate area deviation
+568   | 1325   | 0.4696     | 0.2164 | 0.6773 | 0.4749 | 0.0032 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+569   | 1951   | 0.4674     | 0.1338 | 0.3714 | 0.5130 | 0.0199 | 0.9333 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+570   | 2149   | 0.4619     | 0.2735 | 0.6958 | 0.4363 | 0.1758 | 0.9333 | weak boundary alignment, moderate area deviation
+571   | 1395   | 0.4606     | 0.0219 | 0.2897 | 0.5362 | 0.0000 | 0.8509 | weak boundary alignment, weak imagery edge evidence, moderate area deviation, high spatial placement ambiguity
+572   | 1286   | 0.4588     | 0.1907 | 0.3648 | 0.4987 | 0.0143 | 0.9057 | weak boundary alignment, moderate area deviation, high spatial placement ambiguity
+573   | 1938   | 0.4345     | 0.3470 | 0.5828 | 0.3990 | 0.1946 | 0.9333 | moderate area deviation

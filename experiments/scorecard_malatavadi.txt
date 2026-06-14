@@ -1,0 +1,6 @@
+=== malatavadi · scored on 3 example truths ===
+coverage:    1 corrected + 2 flagged
+accuracy:    median IoU pred=0.574 vs official=0.510  (improvement=0.468, improved 1.000)
+             median centroid err=4.351 m · accurate(IoU>=.5)=1.000
+calibration: Spearman(conf,IoU)=— · AUC=—   (higher = confidence tracks accuracy)
+restraint:   N/A — graded on the hidden set (no control plots here)
